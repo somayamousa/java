@@ -1,0 +1,7 @@
+Family mousa: number of martyrs (0): number of Orphans  (1)
+______________________________________
+Parent: Martyr: ID=11, Name=ahamd, Age=0, Gender=male, Address=zdf, ContactInfo=dsf, DateOfMartyrdom=as, CauseOfDeath=asf, PlaceOfDeath=asf
+Parent: LivePerson: ID=22, Name=asdf, Age=0, Gender=female, Address=serf, ContactInfo=dsfg
+*****************************************
+Member: LivePerson: ID=aef, Name=ss, Age=21, Gender=male, Address=sdf, ContactInfo=sf
+
